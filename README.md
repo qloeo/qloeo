@@ -1,4 +1,5 @@
 ### Hi there 👋
+![cc91e110e0c845474d3e45eb96a1cc34-sticker](https://github.com/qloeo/qloeo/assets/121466548/3aa79a46-c6e5-4f9e-9260-3ee840a16aa8)
 
 <!--
 **qloeo/qloeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
